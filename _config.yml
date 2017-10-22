@@ -1,12 +1,12 @@
 # Site settings
-title: Freelancer
+title: Emma Winston
 email: your-email@domain.com
 url: http://emmawinston.me/nectarine
 baseurl: ''
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Music and audio"
-meta_author: LastName FirstName
+skills: "Music and audio for professional use"
+meta_author: Winston Emma
 
 # Google webmaster tools
 google_verify:
